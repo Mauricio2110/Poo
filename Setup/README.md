@@ -1,14 +1,14 @@
 
 # 1.Instalacion de dotnet core 2.2 
-## Ingresamos ala pagina de dotnet ,al entrar ala pagina selecionamos la instalacion que diga build app.
-## Despues selecionamos la opcion de ubuntu.
+## Ingresamos a la pagina de dotnet ,al entrar a la pagina selecionamos la instalacion que diga build app.
+## Despues selecionamos la opcion que deseemos.
 ## nos proporcionaran un codigo el cual ingresaremos ala terminal.
 ``` sudo dpkg -i packages-microsoft-prod.deb
     sudo apt-get install apt-transport-https
     sudo apt-get update
     sudo apt-get install dotnet-sdk-2.2 
 ```
-## al ingresar este codigo,ya tendremos instalado dotnet core.
+## al ingresar este codigo se instalara dotnet.
 
 # 2.Instalación y configuración de Visual Studio Code para C#
 
