@@ -6,3 +6,5 @@
 [Link a Practica 2](/t1)
 
 [Link a Tarea Markdown](/Setup)
+
+[Link a Tarea Peliculas](/Peliculas.cs)
