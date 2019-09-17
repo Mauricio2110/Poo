@@ -10,3 +10,5 @@
 [Link a Tarea Peliculas](/Peliculas.cs)
 
 [Link a Tarea Lista de Peliculas](/ListaPeliculas.cs)
+
+[Link a Tarea Actores](/)
