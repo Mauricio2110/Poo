@@ -81,11 +81,11 @@
 
 1.-Abrimos Ejecutar presionando la Tecla de windows + R y insertamos cmd
 
-2.-Ejecutamos el comando con nuestro Usuario      git config --global user.name "USUARIO"
+2.-Ejecutamos el comando con nuestro Usuario: git config --global user.name "USUARIO"
 
 ![7.PNG](https://github.com/Mauricio2110/Poo/blob/master/imagenes/7.PNG)
 
-3.-Despues el otro comando con nuestro Correo     git config --global user.email "CORREO"
+3.-Despues el otro comando con nuestro Correo: git config --global user.email "CORREO"
 
 ![8.PNG](https://github.com/Mauricio2110/Poo/blob/master/imagenes/8.PNG)
 
