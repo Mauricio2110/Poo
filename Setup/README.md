@@ -1,5 +1,5 @@
 
-##Como instalar Dotnet Core 2.2
+## Como instalar Dotnet Core 2.2
 
 1.-Ingresamos en nuestro navegador .NET Core
 
