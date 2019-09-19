@@ -26,7 +26,7 @@
 
 3.-Seleccionamos la uncica opcion de descarga
 
-![3.png](https://github.com/Mauricio2110/Poo/blob/master/imagenes/3.png)
+![3.PNG](https://github.com/Mauricio2110/Poo/blob/master/imagenes/3.PNG)
 
 4.-Una vez descargado lo abrimos
 
