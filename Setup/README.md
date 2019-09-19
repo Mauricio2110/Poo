@@ -32,7 +32,7 @@
 
 5.-Aceptamos los terminos y condiciones,damos todo siguiente hasta finalizar
 
-Configuracion de Visual Studio Code
+## Configuracion de Visual Studio Code
 
 1.-Abrimos Visual Studio Code
 
@@ -77,5 +77,12 @@ Configuracion de Visual Studio Code
 
 13.-Por ultimo seleccionamos instalar y cuando termine finalizar
 
+## Configuracion de Git
 
+1.-Abrimos Ejecutar presionando la Tecla de windows + R y insertamos cmd
 
+2.-Ejecutamos el comando con nuestro Usuario  git config --global user.name "USUARIO"
+
+3.-Despues el otro comando con nuestro Correo  git config --global user.email "CORREO"
+
+4.-Cerramos y quedara configurado Git
