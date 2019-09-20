@@ -7,7 +7,7 @@
 
 [Link a Tarea Markdown](/Setup)
 
-[Link a Tarea Peliculas](/Peliculas.cs)
+[Link a Tarea Peliculas](/Pelicula.cs)
 
 [Link a Tarea Lista de Peliculas](/ListaPeliculas.cs)
 
