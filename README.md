@@ -11,4 +11,4 @@
 
 [Link a Tarea Lista de Peliculas](/ListaPeliculas.cs)
 
-[Link a Tarea Actores](/)
+[Link a Tarea Actores](/Actores.cs)
