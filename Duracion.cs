@@ -16,6 +16,24 @@ namespace duracion
 
         }
 
+        public Duracion(int segundos)
+        {
+            conversion_inversa(segundos);
+
+            
+
+
+        }
+        public void conversion_inversa(int segundos)
+        {
+            minutos=(segundos/60);
+            horas=(minutos/60);
+
+            this.segundos=segundos-(minutos*60);
+            minutos=minutos-(horas*60);
+
+        }
+
         public void print()
         {
             Console.WriteLine("Horas:"+horas+" Minutos:"+minutos+" Segundos:"+segundos);
@@ -39,6 +57,7 @@ namespace duracion
             Duracion a = new Duracion(2,15,12);
             Duracion b = new Duracion(0,02,15);
             Duracion c = new Duracion(2,00,10);
+            Duracion d = new Duracion(8023);
 
             
             a.print();
@@ -47,6 +66,10 @@ namespace duracion
             b.conversion();
             c.print();
             c.conversion();
+
+            d.print();
+
+
 
 
         }
