@@ -17,9 +17,9 @@ namespace Musico
             Console.WriteLine("{0} afinando su instrumento",nombre);
         }
 
-        public void Saluda()
+        public string Saluda()
         {
-            Console.WriteLine("Hola soy {0}",nombre);
+           return string.Format("Hola soy {0}",nombre);
         }
     }
     class Bajista:Musico
@@ -65,7 +65,7 @@ namespace Musico
 
            foreach(Musico m in grupo)
            {
-               m.Saluda();
+               Console.WriteLine(m.Saluda());
                m.Afina();
            }
         }
