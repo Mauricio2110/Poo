@@ -1,5 +1,12 @@
 # Poo
 
+# Practicas
+[Link a Practica Domino ](/Domino.cs)
+
+[Link a Practica Duracion ](/Duracion.cs)
+
+[Link a Practica Musicos ](/Musico.cs)
+
 # Tareas
 [Link a Practica 1](/p1)
 
