@@ -5,6 +5,8 @@
 
 [Link a Practica Duracion ](/Duracion.cs)
 
+[Link a Practica Herencia ](/Herencia.cs)
+
 [Link a Practica Musicos ](/Musico.cs)
 
 # Tareas
