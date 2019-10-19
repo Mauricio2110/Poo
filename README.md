@@ -21,3 +21,5 @@
 [Link a Tarea Lista de Peliculas](/ListaPeliculas.cs)
 
 [Link a Tarea Actores](/Actores.cs)
+
+[Link a Tarea Pase de Parametros](/Pase_de_Parametros.cs)
