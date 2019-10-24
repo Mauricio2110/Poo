@@ -9,6 +9,8 @@
 
 [Link a Practica Musicos ](/Musico.cs)
 
+[Link a Practica Faceclon(Publicacion) ](/Faceclon.cs)
+
 # Tareas
 [Link a Practica 1](/p1)
 
