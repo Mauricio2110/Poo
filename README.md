@@ -11,9 +11,9 @@
 
 [Link a Practica Musicos ](/Musico.cs)
 
-[Link a Practica Faceclon(Publicacion) ](/Faceclon.cs)
+[Link a Practica Faceclon (Publicacion) ](/Faceclon.cs)
 
-[Link a Practica Ilustrador ](/Ilustrador.cs)
+[Link a Practica Ilustrador (Figuras) ](/Ilustrador.cs)
 
 
 
