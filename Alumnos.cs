@@ -7,6 +7,7 @@ namespace Alumnos
     {
         protected string nombre,apellido;
         protected int id;
+        //Al cambiar algo a private los metodos no funcionan por que deben de estar en la misma clase base o estar definidos como publicos
 
         public Alumnos(string nombre,string apellido,int id)
         {
