@@ -7,9 +7,13 @@
 
 [Link a Practica Herencia ](/Herencia.cs)
 
+[Link a Practica Alumnos ](/Alumnos.cs)
+
 [Link a Practica Musicos ](/Musico.cs)
 
 [Link a Practica Faceclon(Publicacion) ](/Faceclon.cs)
+
+
 
 # Tareas
 [Link a Practica 1](/p1)
