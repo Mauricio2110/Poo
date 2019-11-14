@@ -15,6 +15,7 @@
 
 [Link a Practica Ilustrador (Figuras) ](/Ilustrador.cs)
 
+[Link a Practica Errores](/Errores.cs)
 
 
 # Tareas
