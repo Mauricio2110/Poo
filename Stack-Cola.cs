@@ -5,7 +5,7 @@ namespace Stack
     class Stack<T>
     {
         private T[] elementos;
-        readonly int tamaño;
+        public readonly int tamaño;
         private int marca = 0;
 
         public Stack() : this(100)
@@ -48,6 +48,14 @@ namespace Stack
             }
         }
 
+        public void Cola()
+        {
+            for(int i=0;i<tamaño;i++)
+            {
+                Console.WriteLine(elementos[i]);
+            }
+        }
+
     }
 
     class Program
@@ -56,15 +64,24 @@ namespace Stack
         {
             Stack<string> orden = new Stack<string>(5);
 
-            orden.Push("2");
-            orden.Push("Mundo");
             orden.Push("1");
+            orden.Push("Mundo");
+            orden.Push("2");
             orden.Push("Hola");
+            
+            //Stack
 
             Console.WriteLine(orden.Pop());
             Console.WriteLine(orden.Pop());
             Console.WriteLine(orden.Pop());
             Console.WriteLine(orden.Pop());
+
+            Console.WriteLine();
+
+            //Cola
+
+            orden.Cola();
+
 
         }
     }
