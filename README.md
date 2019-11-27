@@ -33,4 +33,4 @@
 
 [Link a Tarea Pase de Parametros](/Pase_de_Parametros.cs)
 
-[Link a Tarea Stack](/Stack.cs)
+[Link a Tarea Stack/Cola](/Stack-Cola.cs)
