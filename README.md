@@ -9,8 +9,6 @@
 
 [Link a Practica Alumnos ](/Alumnos.cs)
 
-[Link a Practica Musicos ](/Musico.cs)
-
 [Link a Practica Faceclon (Publicacion) ](/Faceclon.cs)
 
 [Link a Practica Ilustrador (Figuras) ](/Ilustrador.cs)
@@ -32,5 +30,7 @@
 [Link a Tarea Actores](/Actores.cs)
 
 [Link a Tarea Pase de Parametros](/Pase_de_Parametros.cs)
+
+[Link a Practica Musicos ](/Musico.cs)
 
 [Link a Tarea Stack/Cola](/Stack-Cola.cs)
