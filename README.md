@@ -34,3 +34,5 @@
 [Link a Practica Musicos ](/Musico.cs)
 
 [Link a Tarea Stack/Cola](/Stack-Cola.cs)
+
+[Link a Proyecto ](/Proyecto.cs)
